@@ -1,3 +1,14 @@
-# Contact Managment Application 
+# ContactList
+I. Introduction: 
+This is the front-end to a dynamic contact list using React.
 
-Read the instructions from https://projects.breatheco.de/d/contact-list#readme
+The Contact List takes 5 parameters: 
+- Full Name
+- Email
+- Phone
+- Address
+
+
+Users can also edit and delete contacts. 
+
+Contacts are saved using the Flux Store.
